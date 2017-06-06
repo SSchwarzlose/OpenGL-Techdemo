@@ -20,7 +20,7 @@
       glVertex3f(-1.0f, -1.0f, 1.0f);
       glVertex3f( 1.0f, -1.0f, 1.0f);
  
-      // Back face
+      // Rear face
       glColor3f(1.0f, 1.0f, 0.0f);
       glVertex3f( 1.0f, -1.0f, -1.0f);
       glVertex3f(-1.0f, -1.0f, -1.0f);

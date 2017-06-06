@@ -1,5 +1,5 @@
-#ifndef CUBE_HPP_
-    #define CUBE_HPP_
+#ifndef _CUBE_HPP_
+#define CUBE_HPP_
 
 #include <GL\glew.h>
 #include <GL\freeglut.h>
